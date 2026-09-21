@@ -6,8 +6,8 @@ For the two colleagues driving in from Tianjin:
 
 | | |
 |---|---|
-| **Distance** | 139 km (138,734 m) |
-| **Driving time** | ~1 hour 57 minutes |
+| **Distance** | 139 km (138,735 m) |
+| **Driving time** | ~1 hour 57 minutes (typical conditions) |
 | **Route (typical)** | 京津高速公路 / S30 (Jingjin Expressway) — leave Tianjin via 东南半环快速路 and 京津路/G103, then the S30/S15 toll road corridor into Beijing, joining 五环/S50 and 京沪高速/G2 (toll road) |
 
 > **When to leave:** Google Maps gives ~1h 57m in typical conditions. This is a **Friday evening** dinner, so expect Friday rush-hour traffic in the Beijing approach — recommend leaving **at least 2.5–3 hours** before dinner time (i.e., ~2:30–3:00 PM for a 6 PM dinner) and checking live traffic before departing.
@@ -29,5 +29,5 @@ For the calendar invite map pin:
 
 The shared workspace container was checked and `python` **is usable**:
 - `python --version` → **Python 3.12.11** (return code 0)
-- Interpreter path: `/root/.cache/uv/archive-v0/LeinkdPfY37ULs7mGVRZ-/bin/python`
+- Interpreter path: `/root/.cache/uv/archive-v0/cfWiedL_9C8quNHWPMk1t/bin/python`
 - The sandbox permits 59 commands (awk, cat, curl, find, git, grep, python, sed, tar, unzip, etc.) with all flags allowed; limits: max command length 2048 chars, 60-second timeout.
